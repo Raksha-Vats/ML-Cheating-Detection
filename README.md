@@ -3,6 +3,7 @@
 ### 🔎 Overview
 
 This project presents a Computer Vision (CV) based solution designed to enhance cheating detection during exams in classroom settings at Rajiv Gandhi Institute of Petroleum Technology (RGIPT). By leveraging CV technology to monitor students' head and eye movements, the solution aims to ensure academic integrity, promote honesty, and encourage the development of fair study habits.
+
 ---
 
 ### 📝 Problem Definition
