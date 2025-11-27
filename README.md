@@ -15,7 +15,7 @@ Maintaining academic integrity during exams is a persistent challenge in educati
 Implementing a real-time monitoring system using CV can help in:
 - **Enhanced cheating detection**: Monitoring student behavior more effectively.
 - **Fostering a culture of honesty**: Building trust between students and faculty.
-- **Promoting integrity**: Encouraging students to focus on fair study habits.
+- **Promoting integrity**: Encouraging students to focus on fair study habits and avoid malpractices.
 
 ---
 
