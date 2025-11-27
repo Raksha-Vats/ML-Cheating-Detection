@@ -1,12 +1,12 @@
 # Cheating Detection for ASU Classroom
 
-## 🔎 Overview
+### 🔎 Overview
 This project presents a Computer Vision (CV) based solution designed to enhance cheating detection during exams in classroom settings at Rajiv Gandhi Institute of Petroleum Technology (RGIPT). By leveraging CV technology to monitor students' head and eye movements, the solution aims to ensure academic integrity, promote honesty, and encourage the development of fair study habits.
 ---
 
 ### 📝 Problem Definition
 
-Maintaining academic integrity during exams is a persistent challenge in educational institutions. Traditional surveillance methods may fail to detect **covert cheating behaviors**, such as secret interactions between students or sneaking glances at unauthorized materials. This project seeks to address these gaps using **computer vision technology**.
+Maintaining academic integrity during exams is a persistent challenge in educational institutions. Traditional surveillance methods may fail to detect **covert cheating behaviours**, such as secret interactions between students or sneaking glances at unauthorised materials. This project seeks to address these gaps using **computer vision technology**.
 
 ---
 
@@ -27,8 +27,8 @@ Implementing a real-time monitoring system using CV can help in:
 
 ### ⚙️ Current Solutions and Limitations
 
-Current solutions like browser lockdowns and seating arrangements cannot detect **subtle behavioral indicators** of cheating, such as:
-- Sneaking glances at unauthorized materials.
+Current solutions like browser lockdowns and seating arrangements cannot detect **subtle behavioural indicators** of cheating, such as:
+- Sneaking glances at unauthorised materials.
 - Secret interactions between students.
 - Lack of live feedback for proctors during the exam.
 
@@ -36,7 +36,7 @@ Current solutions like browser lockdowns and seating arrangements cannot detect 
 
 ### 💻 Proposed Solution (Role of Computer Vision)
 
-Our proposed solution uses **CV algorithms** to track and analyze students' head and eye movements in real-time during exams. This system identifies suspicious behavior such as:
+Our proposed solution uses **CV algorithms** to track and analyse students' head and eye movements in real-time during exams. This system identifies suspicious behaviour such as:
 - Continuously looking away from the front view.
 - Glancing in directions unrelated to the exam task.
 
@@ -47,7 +47,7 @@ The system employs **high-resolution webcams** to capture data, which is process
 ### 🔄 E2E Product Workflow
 
 1. **Real-Time Monitoring**: Captures students' head and eye movements.
-2. **Immediate Analysis**: CV model analyzes live feed for cheating indicators.
+2. **Immediate Analysis**: CV model analyses live feed for cheating indicators.
 3. **Live Alerts**: Sends alerts when potential cheating is detected.
 4. **Intervention Protocol**: Proctors are alerted to take real-time action.
 5. **Confirmation & Action**: Proctors confirm and act on the identified cheating cases.
@@ -58,7 +58,7 @@ The system employs **high-resolution webcams** to capture data, which is process
 
 1. **YOLOv4 - Object Detection**
    - Detects human figures and objects such as phones or notes in real time.
-   - Tracks the presence and location of unauthorized materials.
+   - Tracks the presence and location of unauthorised materials.
 
 
 
@@ -76,7 +76,14 @@ The system employs **high-resolution webcams** to capture data, which is process
 ### ⚠️ Possible Limitations/Risks
 
 - **Narrow Object Detection**: Limited object recognition capabilities.
-- **Limited Accuracy**: Potential operational errors in identifying cheating behavior.
+- **Limited Accuracy**: Potential operational errors in identifying cheating behaviour.
 - **Device Usage Limitation**: Limitations on compatible devices and hardware.
 
+
+---
+
+### 🔗 Links:
+- Dataset:
+- Report:
+- Presentation: https://tinyurl.com/dxhces2x
 
