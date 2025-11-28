@@ -85,7 +85,6 @@ The system employs **high-resolution webcams** to capture data, which is process
 ---
 
 ### 🔗 Links:
-- Dataset:
-- Report:
+- Report: https://tinyurl.com/5fnpecby
 - Presentation: https://tinyurl.com/dxhces2x
 
